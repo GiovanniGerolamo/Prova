@@ -1,0 +1,15 @@
+D:\ProvaGFT\Exercicio_2\obj\Debug\net6.0\Exercicio_2.csproj.AssemblyReference.cache
+D:\ProvaGFT\Exercicio_2\obj\Debug\net6.0\Exercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProvaGFT\Exercicio_2\obj\Debug\net6.0\Exercicio_2.AssemblyInfoInputs.cache
+D:\ProvaGFT\Exercicio_2\obj\Debug\net6.0\Exercicio_2.AssemblyInfo.cs
+D:\ProvaGFT\Exercicio_2\obj\Debug\net6.0\Exercicio_2.csproj.CoreCompileInputs.cache
+D:\ProvaGFT\Exercicio_2\bin\Debug\net6.0\Exercicio_2.exe
+D:\ProvaGFT\Exercicio_2\bin\Debug\net6.0\Exercicio_2.deps.json
+D:\ProvaGFT\Exercicio_2\bin\Debug\net6.0\Exercicio_2.runtimeconfig.json
+D:\ProvaGFT\Exercicio_2\bin\Debug\net6.0\Exercicio_2.dll
+D:\ProvaGFT\Exercicio_2\bin\Debug\net6.0\ref\Exercicio_2.dll
+D:\ProvaGFT\Exercicio_2\bin\Debug\net6.0\Exercicio_2.pdb
+D:\ProvaGFT\Exercicio_2\obj\Debug\net6.0\Exercicio_2.dll
+D:\ProvaGFT\Exercicio_2\obj\Debug\net6.0\ref\Exercicio_2.dll
+D:\ProvaGFT\Exercicio_2\obj\Debug\net6.0\Exercicio_2.pdb
+D:\ProvaGFT\Exercicio_2\obj\Debug\net6.0\Exercicio_2.genruntimeconfig.cache
